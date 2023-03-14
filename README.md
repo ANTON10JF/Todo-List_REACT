@@ -1,6 +1,8 @@
 Realizar click en el siguiente enlace para utilizar la app: 
 https://todo-list-reactjs-localstorage.netlify.app
 
+Maquetado con semantic-ui-react
+
 In the project directory, you can run:
 
 ### `npm start`
