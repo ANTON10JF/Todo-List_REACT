@@ -1,7 +1,4 @@
-Realizar click en el siguiente enlace para utilizar la app: 
-https://todo-list-reactjs-localstorage.netlify.app
-
-Maquetado con semantic-ui-react
+Aplicación creada con React JS y Semantic UI para hacer una lista de tareas donde puedes añadirla o eliminarla
 
 In the project directory, you can run:
 
